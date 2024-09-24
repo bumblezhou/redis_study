@@ -4,7 +4,7 @@
 
 ## Load from docker:
 ```bash
-docker run -p 6379:6379 --name redis-stack-server redis/redis-stack-server:latest
+docker run -p 6379:6379 --name redis_stack_server redis/redis-stack-server:latest
 ```
 
 ## Install python and required libs:
